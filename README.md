@@ -10,3 +10,4 @@ I have done a quick comparison of graph based neural networks 2D convolutional a
 The experiment was more to learn the financial fraud detection problem and graph based neural networks.
 
 PaySim data set has less fraud data than normal non-fraud transactions. I have dealt with this problem by adjusting data proportions by discarding non-fraud transactions and adding extra weight in learning from fraud data. 
+I had some problems with python newer than 3.8, which I'm using.
